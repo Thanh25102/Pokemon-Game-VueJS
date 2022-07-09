@@ -1,3 +1,6 @@
 [submodule "src/Vue"]
 	path = src/Vue
 	url = https://github.com/Thanh25102/Vue.git
+[submodule "path_to_submodule"] 
+  path = path_to_submodule 
+  url = git://url-of-source/
